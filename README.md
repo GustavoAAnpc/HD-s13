@@ -1,3 +1,3 @@
 Gustavo Blas Asto Aiquipa
 
-Este archivo es un ejemplo de la rama1
+Este archivo es modificado por rama2
