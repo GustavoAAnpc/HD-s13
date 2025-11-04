@@ -1,1 +1,1 @@
-Cambio por rama1
+Este cambio combinado de rama1 y rama2
